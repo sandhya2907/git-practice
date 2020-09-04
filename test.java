@@ -3,4 +3,6 @@ public class test{
      ///logics goes here
 
 }
+public void m2(){
+}
 }
