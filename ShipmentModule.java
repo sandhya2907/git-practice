@@ -1,5 +1,7 @@
 class Shipment{
      private Integer shipId;
      private String shipName;
-dkld
+     private String shipMode;
+     private String shipCode;
+
 }
